@@ -1,4 +1,4 @@
-# File Autpsaver
+# File Autosaver
 A script that creates backup files for your important documents and data.
 
 <a href="#">
