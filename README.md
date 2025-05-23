@@ -19,7 +19,7 @@ To use this script, you would need to modify the `backup_dir` and `files_to_back
 | Home computer | Save important documents and files | ✔️ |
 | Workstation | Create backups of selected files and data | ✔️ |
 | Servers | Much like RAID Arrays, create backups of critical information and data | ✔️ |
-| Brain | No, remember it no your own or write it down | ❌ |
+| Brain | No, remember it on your own or write it down | ❌ |
 
 # Versions: 
 
